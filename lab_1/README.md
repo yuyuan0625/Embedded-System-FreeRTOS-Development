@@ -15,3 +15,6 @@ sequence repeats, cycling through the Red, Orange, and Green LEDs.
 ## Implementation
 https://hackmd.io/@yuyuan/embedded-lab1
 
+## Demo
+https://github.com/user-attachments/assets/4a43e7b5-fcdc-4f14-b2e3-63911e6db95a
+
